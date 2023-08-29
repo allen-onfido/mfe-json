@@ -1,0 +1,1 @@
+# Simple color picker control
